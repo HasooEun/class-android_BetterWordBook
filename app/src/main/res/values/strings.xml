@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Better Word Book</string>
+    <string name="file_read">파일읽기</string>
+    <string name="file_write">파일저장</string>
+    <string name="input_word">단어 입력</string>
+    <string name="input_meaning">뜻 입력</string>
+    <string name="add_word">단어추가</string>
+    <string name="word">단어</string>
+    <string name="meaning">뜻</string>
+</resources>
